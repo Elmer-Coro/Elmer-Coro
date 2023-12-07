@@ -12,8 +12,8 @@ Soy un apasionado Frontend Developer con un enfoque en crear experiencias web as
 
 ## 🌟 Proyectos Destacados
 
-- [Snake](https://elmer-coro.github.io/Snake/): Breve descripción del proyecto.
-- [Memory-Game](https://elmer-coro.github.io/memory-game/src/): Breve descripción del proyecto.
+- [Snake](https://elmer-coro.github.io/Snake/): Este proyecto es una implementación clásica del popular juego Snake, donde controlas una serpiente que crece cada vez que consume una fruta. El objetivo es simple: ¡crecer tanto como sea posible sin chocar contra las paredes ni contra ti mismo!.
+- [Memory-Game](https://elmer-coro.github.io/memory-game/src/): Este proyecto es una implementación del clásico juego de memoria, también conocido como "Memory" o "Concentration". Pon a prueba tu capacidad de concentración y memoria mientras intentas hacer coincidir pares de cartas en el menor número de movimientos posible.
 
 ## 📊 Estadísticas GitHub
 
