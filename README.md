@@ -23,7 +23,7 @@ Soy un apasionado Frontend Developer con un enfoque en crear experiencias web as
 
 ¡Conéctate conmigo en las redes sociales!
 
-[![LinkedIn](https://www.linkedin.com/in/elmer-coro-huaman-925530258/)](Enlace a tu perfil de LinkedIn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TU_TWITTER_HANDLE-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://img.shields.io/badge/Twitter-TU_TWITTER_HANDLE-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/elmer-coro-huaman-925530258/)
 [![Twitter](https://img.shields.io/badge/Twitter-TU_TWITTER_HANDLE-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Enlace a tu perfil de Twitter)
 
 <!-- Sección de Habilidades Adicionales -->
